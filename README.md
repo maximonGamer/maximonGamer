@@ -1,8 +1,8 @@
 <!-- Banner ou separador -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=100&section=header"/>
 
-<h1 align="center">👋 Olá! Eu sou o Claudio Lucas</h1>
-<h3 align="center">💻 Desenvolvedor Backend • Amante de tecnologia</h3>
+<h1 align="center">👋 Bom dia / Boa tarde Eu sou o Claudio Lucas</h1>
+<h3 align="center">💻 Desenvolvedor Full-Stack/Front-end/Back-end • Amante de tecnologia</h3>
 
 ---
 
