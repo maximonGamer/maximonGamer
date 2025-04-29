@@ -82,7 +82,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. A
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-![GitHub Snake](https://raw.githubusercontent.com/<seu-usuario>/<seu-usuario>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maximonGamer/maximonGamer/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ⭐ *Se gostou do meu perfil, não esqueça de me seguir que eu sigo de volta!*
