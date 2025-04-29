@@ -10,9 +10,10 @@
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Atualmente trabalho como **Backend Developer** na **Global Technologies Services**, criando APIs, otimizando bancos de dados e colaborando com times multifuncionais.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🚀 Apaixonado por tecnologia, backend, microserviços e boas práticas
-- 🧠 Sempre em aprendizado e evolução
+- 🎓 **Cursando Análise e Desenvolvimento de Sistemas**.
+- 🚀 **Experiência sólida em Frontend e Backend**, criando soluções completas.
+- 🧠 **Sempre em constante aprendizado** para me manter atualizado com as melhores práticas.
+- ⚡ **Focado em entregar resultados rápidos e de qualidade**, sempre com foco na experiência
 
 ---
 
